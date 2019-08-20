@@ -1,0 +1,5 @@
+
+amazon.url=https://www.amazon.co
+amazon.search.text=twotabsearchtextbox
+amazon.search.button=(//input[@class=\"nav-input\"])[1]
+

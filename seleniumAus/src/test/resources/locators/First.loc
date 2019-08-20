@@ -1,0 +1,8 @@
+
+
+home.search.textbox='twotabsearchtextbox'
+
+home.search.button='(//input[@class='nav-input'])[1]'
+
+product.serachresult.text="//div[@class='a-section a-spacing-small a-spacing-top-small']/span"
+
